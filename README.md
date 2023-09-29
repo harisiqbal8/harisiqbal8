@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=harisiqbal8&label=PROFILE+VIEWS)
 ### Hi there 👋
 ### My Name is Haris Iqbal
 
