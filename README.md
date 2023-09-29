@@ -3,10 +3,10 @@
 ### My Name is Haris Iqbal
 
 :pushpin: Computer System Engineer <br/>
-:pushpin: JavaScript Developer <br/>
+:pushpin: JavaScript/TypeScript Developer <br/>
 :pushpin: MERN Stack Developer <br/>
 :pushpin: Next.js Developer <br/>
-:pushpin: JavaScript/TypeScript Developer <br/>
+:pushpin: Smart Contract Developer <br/>
 :pushpin: Google Cloud Services <br/>
 :pushpin: Blockchain Enthusiast
 
