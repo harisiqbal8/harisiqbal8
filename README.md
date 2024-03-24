@@ -13,7 +13,8 @@
   :pushpin: JavaScript/TypeScript Developer <br/>
   :pushpin: MERN Stack Developer <br/>
   :pushpin: Next.js Developer <br/>
-  :pushpin: Laravel Developer <br/>
+  :pushpin: LAMP Stack Developer <br/>
+  :pushpin: Nuxt.js Developer <br/>
   :pushpin: Google Cloud Services <br/>
   :pushpin: Blockchain Enthusiast
 
